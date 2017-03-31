@@ -1,0 +1,81 @@
+body {
+  padding: 0px;
+  margin: 0px;
+
+    background-image: url("Abt Page Mockup.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+      
+}
+
+div, a, p, {
+  font-family: Arial, Helvetica, sans-serif;
+    font-size: 90px;
+  margin: 0px;
+}
+
+
+
+.content {
+  width: 100%;
+  margin: 0px auto;
+}
+
+.centered {
+  width: 960px;
+  margin: inherit;
+}
+
+.thumbnail {
+  width: 160px;
+  height: 160px;
+  background-color: #ddd;
+  margin: 16px;
+  float: left;
+  cursor: pointer;
+}
+
+.text {
+  color: #666666;
+  padding-top: 500px;
+  padding-bottom: 20px;
+  padding-left: 500px;
+  padding-right: 390px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+.menu {
+  background-image: "Abt Page Mockup.png";
+  width: auto;
+  margin-bottom: 0;
+}
+
+.a href {
+    width: 100%;
+  color: #fa0f0f;
+  margin-top: 600;
+  margin-left: 20px;
+  text-align: left;
+    font-family: Arial, Helvetica, sans-serif
+}
+.links {
+  width: 100px;
+  float: left;
+  color: #030303;
+  margin-top: 200px;
+  margin-left: 248px;
+  text-align: left;
+    
+    font-family: Arial, Helvetica, sans-serif;
+    font-size-adjust:auto;
+    font-size: 150%
+
+    
+    
+}
+
+.links:hover {
+  color: #eb2329;
+}
+
